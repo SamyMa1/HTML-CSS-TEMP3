@@ -1657,7 +1657,7 @@ starting header section */
   padding-top: 80px;
   padding-bottom: 40px;
   position: relative;
-  background-image: url(..imgs/stats.jpg);
+  background-image: url(../imgs/stats.jpg);
   background-size: cover;
 }
 .stats h2 {
